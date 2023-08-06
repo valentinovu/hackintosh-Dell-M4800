@@ -10,7 +10,7 @@ Hackintosh for Dell Precision M4800
 * BCM4352 802.11ac Wireless Network Adapter
 * Broadcom BCM20702A0 Bluetooth (integrated with BCM4352)
 
-*OpenCore - macOS Bigsur 11.2.3  tested* \
+*OpenCore  0.9.3 - macOS Monterey 12.4 tested* \
 
 
 
